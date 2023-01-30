@@ -1,10 +1,10 @@
 {
-    "intro" : "I am the fruit ID system.",
-    "q1" : "What color is the fruit?",
-    "q2" : "Is it round?",
-    "conclusion" : "It looks like you have a",
-    "not_found" : "I do not recognize that fruit. Please tell me what it is.",
-    "repeat" : "Do you want to go again?",
-    "farewell" : "Goodbye.",
-    "contribution" : "Thank you for the contribution."
+    "intro": "I am the fruit ID system.",
+    "q1": "What color is the fruit? \n",
+    "q2": "Is it round? \n",
+    "conclusion": "It looks like you have a",
+    "not_found": "I do not recognize that fruit. Please tell me what it is.",
+    "repeat": "Do you want to go again?",
+    "farewell": "Goodbye.",
+    "contribution": "Thank you for the contribution."
 }
