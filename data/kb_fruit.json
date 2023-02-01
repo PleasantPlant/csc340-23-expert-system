@@ -1,5 +1,11 @@
 {
-    "yellow-0": {
+    "green-1-0": {
+        "name": "lime"
+    },
+    "yellow-0-1": {
         "name": "banana"
+    },
+    "green-1-1": {
+        "name": "watermelon"
     }
 }
